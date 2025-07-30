@@ -1,6 +1,6 @@
 {
   "name": "@mokcj0825/hole-mask",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React component for creating mask overlays with customizable holes",
   "type": "module",
   "main": "dist/index.js",
